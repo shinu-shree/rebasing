@@ -1,0 +1,6 @@
+# HEAD
+HEAD is a pointer in git which
+	- Always points to the latest commit in the repository
+	- Always points to tip of the current reposiotory
+	- Always points to parent of the next commit
+
