@@ -1,0 +1,4 @@
+so see following steps :
+       	$ git branch 
+           - master (m1,m2,m3)
+  	   - feature* (m1,m2, f1,f2) feature branch is created based on m2, so feature branch base is m2. so we need to change base of the feature branch
