@@ -1,0 +1,4 @@
+ We have two branches master and feature
+   - First time in master branch two files m1,m2 then basis on this branch we created a feature branch now in branch same files m1,m2 and one new file f1 this file is created in feature branch, 
+   - but after creation of feature branch someone push one more file i.e m3 in master branch, but our feature branch base is m2.
+   - But, I want continue my work in feature branch so we created one more file ie. f2 in feature branch.
